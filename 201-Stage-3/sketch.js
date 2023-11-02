@@ -39,6 +39,8 @@ function draw()
     noFill();
 
     // write the code to join the bullet holes below
+	//the strucher will give you the ability to draw flexible. Every vertex will include the "X" and "Y" point it will connect together to create a draw line 
+	//It will look like this but X and Y will change for every assignt you click download on assignt page.
 
 beginShape()
   vertex(656.25,10);
